@@ -1,6 +1,6 @@
 # Thrust-Vectoring Ducted Fan Quadrotor Website Page
 
-This is the repository that contains source code for the [Thrust-Vectoring Ducted Fan Quadrotor Website](https://ntu-ee-ncslab.github.io/TV-DFQ.github.io/).
+This is the repository that contains source code for the [Thrust-Vectoring Ducted Fan Quadrotor Website](https://ntu-ee-ncslab.github.io/TV-DFQ/).
 
 
 This code was borrowed from the [Nerfies website](https://nerfies.github.io).
